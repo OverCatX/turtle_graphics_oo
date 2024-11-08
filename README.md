@@ -1,6 +1,11 @@
 # OO code using turtle graphics
-- How to run?
-- -python polygon_art.py
+
+## Status Report
+# How to run?
+- python polygon_art.py
+
+### Status of Implementation
+- All features implemented successfully
 # Art 1
 - ![art1](https://github.com/OverCatX/turtle_graphics_oo/blob/main/art1.jpg?raw=true)
 # Art 2
